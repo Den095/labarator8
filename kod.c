@@ -1,4 +1,4 @@
-#include <std.h>
+#include <std.h> //это тренировочная программа!!!!!
 
 int main(){
 	int a, b;
